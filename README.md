@@ -27,8 +27,6 @@ JobSprout is a modern full-stack job portal built with React, Node.js, and Mongo
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/dbe7dd7c-9fb0-408c-8c3c-3da963038684)
 ![image](https://github.com/user-attachments/assets/069ade25-8fa5-4a36-b1b4-9dac8324a2e9)
-![image][WhatsApp Image 2025-09-02 at 23 21 02_21fc4bb8](https://github.com/user-attachments/assets/9e1ab936-cdd2-4b96-b9d7-a8b25f959db0)
-![image][WhatsApp Image 2025-09-02 at 23 21 02_4ef3a37b](https://github.com/user-attachments/assets/af6d6436-01b6-44eb-bb82-9f2fb8843529)
 
 
 
