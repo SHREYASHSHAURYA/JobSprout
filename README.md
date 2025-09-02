@@ -62,41 +62,6 @@ cd ../client
 npm install
 ````
 
-## 🔐 Environment Variables (Backend)
 
-```env
-PORT=5001
-MONGODB_URI=mongodb://localhost:27017/jobportal
-JWT_SECRET=your_jwt_secret
-```
-
-## 🏃 Running Locally
-
-```bash
-# From root (requires concurrently)
-npm install -g concurrently
-npm run dev
-```
-
-* Frontend: [http://localhost:3000](http://localhost:3000)
-* Backend: [http://localhost:5001](http://localhost:5001)
-
-## 🔧 API Overview
-
-**Auth**: `/api/auth/login`, `/api/auth/register`
-**Jobs**: `/api/jobs`, `/api/jobs/:id/apply`, `/api/jobs/:id/save`
-**Admin**: `/api/admin/dashboard`, `/api/admin/users`
-
-## 🧠 Notes
-
-* MongoDB must be running
-* Admin account needs manual creation in DB
-* Auth uses JWT + role-based access
-
-## 📌 Todo
-
-- Seed admin user and job data
-- Add email notifications
-- Implement resume parsing and smart recommendations
 
 
