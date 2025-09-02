@@ -99,6 +99,4 @@ npm run dev
 - Add email notifications
 - Implement resume parsing and smart recommendations
 
-## 🙌 Built by
 
-[Utkrisht](https://github.com/utk1college)
