@@ -45,10 +45,6 @@ root/
 
 ## ⚙️ Installation
 
-```bash
-git clone https://github.com/utk1college/JobSprout.git
-cd JobSprout
-
 # Install root deps if needed
 npm install
 
